@@ -1,0 +1,29 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:532: checking for gcc
+configure:645: checking whether the C compiler (gcc  ) works
+configure:661: gcc -o conftest    conftest.c  1>&5
+configure:658:1: warning: return type defaults to 'int' [-Wimplicit-int]
+  658 | main(){return(0);}
+      | ^~~~
+configure:687: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:692: checking whether we are using GNU C
+configure:720: checking whether gcc accepts -g
+configure:786: checking for a BSD compatible install
+configure:840: checking how to run the C preprocessor
+configure:924: checking for X
+configure:1238: checking for dnet_ntoa in -ldnet
+configure:1279: checking for dnet_ntoa in -ldnet_stub
+configure:1327: checking for gethostbyname
+configure:1425: checking for connect
+configure:1517: checking for remove
+configure:1609: checking for shmat
+configure:1710: checking for IceConnectionNumber in -lICE
+configure:1757: checking for main in -lX11
+configure:1800: checking for main in -lm
+configure:1844: checking for inline
+configure:1884: checking for ANSI C header files
+configure:1988: checking whether time.h and sys/time.h may both be included
+configure:2024: checking whether struct tm is in sys/time.h or time.h
+configure:2058: checking whether struct tm has tm_gmtoff
